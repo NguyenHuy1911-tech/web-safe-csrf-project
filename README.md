@@ -20,5 +20,3 @@ Làm chương 4
 
 Đề tài: CSRF Protection – demo tấn công CSRF (form auto-submit) và fix bằng CSRF token + SameSite cookies
 
-Hình ảnh chụp một số kết quả demo
-
